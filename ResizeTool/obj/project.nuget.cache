@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YaeKYzPR2GFGw2r2zh26kkKcjJDZ9QHf/2kryYPErEq64BAPrigEj4kGgJzfZB3Zwhngjk1AMjjxwGlQdINzmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JY-PC\\source\\repos\\ResizeTool\\ResizeTool\\ResizeTool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JY-PC\\.nuget\\packages\\opencvsharp4\\4.7.0.20230115\\opencvsharp4.4.7.0.20230115.nupkg.sha512",
+    "C:\\Users\\JY-PC\\.nuget\\packages\\opencvsharp4.runtime.win\\4.7.0.20230115\\opencvsharp4.runtime.win.4.7.0.20230115.nupkg.sha512",
+    "C:\\Users\\JY-PC\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\JY-PC\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
